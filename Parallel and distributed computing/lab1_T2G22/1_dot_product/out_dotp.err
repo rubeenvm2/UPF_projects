@@ -1,0 +1,39 @@
+rm -f a.out
+gcc -std=c99 -std=gnu11 -Wall -march=native -fopenmp -fopt-info-vec-{optimized,missed} -O3 dotp.c -lm -o a.out
+dotp.c:5:6: warning: return type of ‘main’ is not ‘int’ [-Wmain]
+    5 | void main(int argc, char* argv[]){
+      |      ^~~~
+dotp.c:37:21: optimized: loop vectorized using 32 byte vectors
+dotp.c:37:21: optimized: loop vectorized using 16 byte vectors
+dotp.c:35:43: missed: statement clobbers memory: __atomic_fetch_add_4 (_29, prephitmp_66, 0);
+dotp.c:46:10: optimized: loop vectorized using 32 byte vectors
+dotp.c:48:14: optimized: loop vectorized using 32 byte vectors
+dotp.c:46:10: missed: statement clobbers memory: __builtin_memset (&D.3985, 0, _62);
+dotp.c:46:41: missed: statement clobbers memory: __atomic_fetch_add_4 (_45, prephitmp_67, 0);
+dotp.c:23:9: optimized: loop vectorized using 32 byte vectors
+dotp.c:23:9: optimized: loop vectorized using 16 byte vectors
+dotp.c:16:5: missed: couldn't vectorize loop
+dotp.c:16:5: missed: not vectorized: number of iterations cannot be computed.
+dotp.c:8:5: missed: statement clobbers memory: sscanf (_1, "%d", &size);
+dotp.c:9:5: missed: statement clobbers memory: sscanf (_2, "%d", &nthreads);
+dotp.c:10:5: missed: statement clobbers memory: sscanf (_3, "%d", &ex);
+dotp.c:13:14: missed: statement clobbers memory: a_46 = malloc (_6);
+dotp.c:14:14: missed: statement clobbers memory: b_48 = malloc (_6);
+dotp.c:15:5: missed: statement clobbers memory: srand (1);
+dotp.c:17:23: missed: statement clobbers memory: _8 = rand ();
+dotp.c:18:23: missed: statement clobbers memory: _16 = rand ();
+dotp.c:21:2: missed: statement clobbers memory: __builtin_puts (&"Exercici 1"[0]);
+dotp.c:22:24: missed: statement clobbers memory: start_81 = omp_get_wtime ();
+dotp.c:26:22: missed: statement clobbers memory: end_83 = omp_get_wtime ();
+dotp.c:28:9: missed: statement clobbers memory: printf ("%.4e\t%i\n", time_84, total_102);
+dotp.c:31:2: missed: statement clobbers memory: printf ("Exercici 2, nthreads %d\n", pretmp_115);
+dotp.c:32:9: missed: statement clobbers memory: omp_set_num_threads (nthreads.11_33);
+dotp.c:34:24: missed: statement clobbers memory: start_67 = omp_get_wtime ();
+dotp.c:5:6: missed: statement clobbers memory: __builtin_GOMP_parallel (main._omp_fn.0, &.omp_data_o.19, 0, 0);
+dotp.c:39:22: missed: statement clobbers memory: end_76 = omp_get_wtime ();
+dotp.c:41:9: missed: statement clobbers memory: printf ("%.4e\t%i\n", time_77, total_73);
+dotp.c:44:7: missed: statement clobbers memory: printf ("Exercici 3, nthreads %d\n", pretmp_115);
+dotp.c:45:17: missed: statement clobbers memory: start_52 = omp_get_wtime ();
+dotp.c:5:6: missed: statement clobbers memory: __builtin_GOMP_parallel (main._omp_fn.1, &.omp_data_o.23, 0, 0);
+dotp.c:50:15: missed: statement clobbers memory: end_61 = omp_get_wtime ();
+dotp.c:52:2: missed: statement clobbers memory: printf ("%.4e\t%i\n", time_62, total_58);

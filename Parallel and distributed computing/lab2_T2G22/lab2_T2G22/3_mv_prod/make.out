@@ -1,0 +1,320 @@
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_prod.c -o mv_prod.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_prod.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_dot.c -o mv_dot.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_dot.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c mv_dotp.c -o mv_dotp.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  mv_dotp.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
