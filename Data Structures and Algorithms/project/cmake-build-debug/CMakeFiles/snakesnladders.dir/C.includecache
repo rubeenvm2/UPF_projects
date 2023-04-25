@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruben/CLionProjects/project/src/headers/sequence.h
+
+/home/ruben/CLionProjects/project/src/sources/sequence.c
+stdlib.h
+-
+stdio.h
+-
+../headers/sequence.h
+/home/ruben/CLionProjects/project/src/headers/sequence.h
+

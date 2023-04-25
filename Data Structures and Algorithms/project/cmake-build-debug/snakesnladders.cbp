@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="snakesnladders"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ruben/CLionProjects/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ruben/CLionProjects/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ruben/CLionProjects/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snakesnladders">
+				<Option output="/home/ruben/CLionProjects/project/cmake-build-debug/snakesnladders" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ruben/CLionProjects/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 snakesnladders"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snakesnladders/fast">
+				<Option output="/home/ruben/CLionProjects/project/cmake-build-debug/snakesnladders" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ruben/CLionProjects/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 snakesnladders/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/board.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/board_utils.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/common.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/game.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/menu.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/sequence.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/square.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/state.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/headers/utils.h">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/board.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/board_utils.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/game.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/main.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/menu.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/sequence.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/square.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/state.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/src/sources/utils.c">
+			<Option target="snakesnladders"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

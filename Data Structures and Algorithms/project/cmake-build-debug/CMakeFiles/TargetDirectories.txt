@@ -1,0 +1,3 @@
+/home/ruben/CLionProjects/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ruben/CLionProjects/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ruben/CLionProjects/project/cmake-build-debug/CMakeFiles/snakesnladders.dir
