@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/generate_candidates.h
+linked_list.h
+../include/linked_list.h
+hash_table.h
+../include/hash_table.h
+
+../include/hash_table.h
+utils.h
+../include/utils.h
+linked_list.h
+../include/linked_list.h
+
+../include/linked_list.h
+utils.h
+../include/utils.h
+
+../include/utils.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+unistd.h
+-
+ctype.h
+-
+
+/home/ruben/CLionProjects/iSpell-skeleton/src/generate_candidates.c
+generate_candidates.h
+/home/ruben/CLionProjects/iSpell-skeleton/src/generate_candidates.h
+linked_list.h
+/home/ruben/CLionProjects/iSpell-skeleton/src/linked_list.h
+
