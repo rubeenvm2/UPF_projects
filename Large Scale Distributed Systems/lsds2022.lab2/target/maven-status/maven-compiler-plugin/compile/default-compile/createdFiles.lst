@@ -1,0 +1,4 @@
+edu\upf\model\SimplifiedTweet.class
+edu\upf\spark\MostRetweetedApp.class
+edu\upf\TwitterLanguageFilterApp.class
+edu\upf\model\ExtendedSimplifiedTweet.class
