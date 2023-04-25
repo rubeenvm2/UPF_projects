@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2Students">
+				<Option output="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Lab2Students" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ruben/CLionProjects/lab2_BST_students/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2Students"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2Students/fast">
+				<Option output="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Lab2Students" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ruben/CLionProjects/lab2_BST_students/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2Students/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruben/CLionProjects/lab2_BST_students/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/include/commons.h">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/include/generate_candidates.h">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/include/main.h">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/include/tree.h">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/include/utils.h">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/src/generate_candidates.c">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/src/main.c">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/src/tree.c">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/src/utils.c">
+			<Option target="Lab2Students"/>
+		</Unit>
+		<Unit filename="/home/ruben/CLionProjects/lab2_BST_students/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
